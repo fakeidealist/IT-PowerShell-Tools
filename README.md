@@ -21,6 +21,13 @@ This project demonstrates real-world PowerShell automation skills used in enterp
 | `Get-RecentErrors.ps1` | Analyzes recent Critical & Error events in Event Logs |
 | `Rename-Computers.ps1` | Bulk computer renaming tool |
 
+## Folder Structure
+
+C:\IT-PowerShell
+├── Scripts/              # All .ps1 scripts
+├── Reports/              # Generated reports & CSVs
+└── Logs/                 # Error & event logs
+
 ## 🚀 Usage Examples
 
 ```powershell
@@ -45,14 +52,16 @@ This project demonstrates real-world PowerShell automation skills used in enterp
 
 ## 🎯 Skills Demonstrated
 
-PowerShell scripting and automation
-System administration and diagnostics
+PowerShell scripting & automation
 Error handling and logging
-User account management
-Software deployment automation
-Hardware health monitoring
+System administration
+Hardware & software inventory
 Windows Update management
+IT process automation
 
-## :chart_with_upwards_trend: Resume Value
+## :chart_with_upwards_trend: Future Enhancementst
 
-This project demonstrates practical automation skills highly valued in Deskside Technician, Desktop Support, and IT Support roles. It showcases the ability to create reusable tools that improve efficiency and reduce manual work in enterprise environments.
+Active Directory user automation
+Bulk device management
+Configuration drift detection
+Automated reporting dashboard
